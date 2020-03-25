@@ -57,19 +57,19 @@ function getFortune(fate) {
     let Message
     switch (fate) {
         case 1: 
-        Message = 'your hair lights on fire and you get eaten by spiders'
+        Message = 'you and Ethan will have a baby'
         break
         case 2:
-        Message = 'your head explodes and a turtle eats the remains'
+        Message = 'Ethan will perform brain surgery on you'
         break
         case 3: 
-        Message = 'you find your one true love.'
+        Message = 'your teeth will fall out and land on Ethans head'
         break
         case 4:
-            Message ='you win the lottery.'
+            Message ='you will eat many olives off of your fingers.  It will be the best day of your life.'
         break
         case 5:
-            Message = 'you run over your foot with a car.'
+            Message = 'you will become a service pro for Aptive and forget your shoes at your first appointment :( .'
         break
     }
     return Message
